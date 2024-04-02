@@ -6,7 +6,7 @@ use DOMDocument;
 use NFePHP\MDFe\Common\Standardize;
 use NFePHP\MDFe\Exception\DocumentsException;
 use NFePHP\Common\Strings;
-
+//teste
 class Complements
 {
     protected static $urlPortal = 'http://www.portalfiscal.inf.br/mdfe';
